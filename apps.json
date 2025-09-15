@@ -1,9 +1,51 @@
 [
   {
+    "name": "Bitwarden Password Manager",
+    "logo": "images/Bitwarden Password Manager.png",
+    "description": "Bitwarden 是一款开源的密码管理器，旨在帮助用户安全地存储、管理和生成密码。它可以帮助用户避免使用弱密码、重复密码和容易被破解的密码，从而提高在线账户的安全性。Bitwarden 通过加密技术，确保用户的数据始终安全地存储和传输。",
+    "download": "https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb"
+  },
+  {
+    "name": "Get cookies.txt LOCALLY",
+    "logo": "images/Get cookies.txt LOCALLY.png",
+    "description": "Get cookies.txt locally 用于获取浏览器中存储的 cookies 并将它们保存到一个名为 cookies.txt 的文件中。Cookies 用于存储用户的会话信息、登录状态、偏好设置等。",
+    "download": "https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc"
+  },
+  {
+    "name": "Image Downloader",
+    "logo": "images/Image Downloader.png",
+    "description": "Image Downloader 专门用于从网页上下载图片资源。它能够帮助用户批量提取网页上的所有图片，并提供简单的界面来选择和下载特定的图片，甚至支持根据特定的过滤条件（如大小、分辨率等）筛选图片。",
+    "download": "https://chromewebstore.google.com/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj"
+  },
+  {
     "name": "MetaMask",
     "logo": "images/MetaMask.png",
     "description": "MetaMask 是一款 以太坊（Ethereum）和 ERC-20 代币的加密钱包插件，它允许用户在浏览器中直接与区块链进行交互。MetaMask 主要是作为 Google Chrome 浏览器扩展（也支持 Firefox、Brave 等浏览器）使用，它让用户可以在去中心化应用（DApp）中进行交易、管理加密货币、访问 Web3 内容。",
     "download": "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn"
+  },
+  {
+    "name": "Ruffle - Flash Emulator",
+    "logo": "images/Ruffle - Flash Emulator.png",
+    "description": "Ruffle 是一个开源的 Flash 模拟器，旨在帮助用户继续在现代浏览器中运行 Flash 内容。由于 Adobe 在 2020 年底停止了对 Flash 的支持，许多依赖 Flash 的老旧网站和内容就无法再在新的浏览器中使用了。Ruffle 作为 Flash 的替代方案，提供了一个轻量级的解决方案，让用户能够继续访问这些 Flash 内容，而无需依赖已经被淘汰的 Flash 插件。",
+    "download": "https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc"
+  },
+  {
+    "name": "Tampermonkey",
+    "logo": "images/Tampermonkey.png",
+    "description": "Tampermonkey 是一个流行的用户脚本管理器，它允许你在浏览器中运行和管理自定义的 JavaScript 脚本，以便修改网页的内容和行为。通过 Tampermonkey，用户可以自定义网页的外观、功能，甚至增强某些网页的交互性和自动化操作。",
+    "download": "https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
+  },
+  {
+    "name": "Video DownloadHelper",
+    "logo": "images/Video DownloadHelper.png",
+    "description": "Video DownloadHelper 是一款专门用于帮助用户从各种网页上下载视频和音频文件。它广泛支持多种流媒体网站，能够轻松捕获网页上的视频资源，并提供下载选项。该扩展支持 Chrome 和 Firefox 等主流浏览器。",
+    "download": "https://chromewebstore.google.com/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk"
+  },
+  {
+    "name": "Webrecorder ArchiveWeb.page",
+    "logo": "images/Webrecorder ArchiveWeb.page.png",
+    "description": "Webrecorder ArchiveWeb.page 是 Webrecorder 项目中的一种文件格式，用于保存网页的完整存档。这是一个专为网页存档设计的工具和格式，可以捕捉和重建网页的互动内容，包括文本、图片、JavaScript、CSS、媒体文件等。",
+    "download": "https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd"
   }
 ]
 
