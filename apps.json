@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MetaMask",
+    "logo": "images/MetaMask.png",
+    "description": "MetaMask 是一款 以太坊（Ethereum）和 ERC-20 代币的加密钱包插件，它允许用户在浏览器中直接与区块链进行交互。MetaMask 主要是作为 Google Chrome 浏览器扩展（也支持 Firefox、Brave 等浏览器）使用，它让用户可以在去中心化应用（DApp）中进行交易、管理加密货币、访问 Web3 内容。",
+    "download": "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn"
+  }
+]
+
+
+
+
+
+
+
