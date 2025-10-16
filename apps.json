@@ -42,12 +42,19 @@
     "download": "https://chromewebstore.google.com/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk"
   },
   {
+    "name": "Wander",
+    "logo": "images/Wander.png",
+    "description": Wander 是 Arweave 与 AO 生态的官方非托管钱包，用于管理 AR 资产、签名交易、连接 dApp 与部署智能代理。",
+    "download": "https://chromewebstore.google.com/detail/wander/einnioafmpimabjcddiinlhmijaionap"
+  },
+  {
     "name": "Webrecorder ArchiveWeb.page",
     "logo": "images/Webrecorder ArchiveWeb.page.png",
     "description": "Webrecorder ArchiveWeb.page 是 Webrecorder 项目中的一种文件格式，用于保存网页的完整存档。这是一个专为网页存档设计的工具和格式，可以捕捉和重建网页的互动内容，包括文本、图片、JavaScript、CSS、媒体文件等。",
     "download": "https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd"
   }
 ]
+
 
 
 
