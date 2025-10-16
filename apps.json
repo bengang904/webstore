@@ -44,7 +44,7 @@
   {
     "name": "Wander",
     "logo": "images/Wander.png",
-    "description": Wander 是 Arweave 与 AO 生态的官方非托管钱包，用于管理 AR 资产、签名交易、连接 dApp 与部署智能代理。",
+    "description": "Wander 是 Arweave 与 AO 生态的官方非托管钱包，用于管理 AR 资产、签名交易、连接 dApp 与部署智能代理。",
     "download": "https://chromewebstore.google.com/detail/wander/einnioafmpimabjcddiinlhmijaionap"
   },
   {
@@ -54,6 +54,7 @@
     "download": "https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd"
   }
 ]
+
 
 
 
