@@ -8,12 +8,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="search-bar">
-        <input type="text" id="searchInput" placeholder="搜索应用名称...">
-        <button onclick="filterApps()">搜索</button>
+    <div class="header-container">
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="搜索应用名称或描述..." />
+            <button onclick="searchApps()">搜索</button>
+        </div>
     </div>
     
     <div class="container" id="app-container"></div>
+    
     <script src="main.js"></script>
 </body>
 </html>
+
+
