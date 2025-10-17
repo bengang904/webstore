@@ -8,7 +8,7 @@
   {
     "name": "Get cookies.txt LOCALLY",
     "logo": "images/Get cookies.txt LOCALLY.png",
-    "description": "Get cookies.txt locally 用于获取浏览器中存储的 cookies 并将它们保存到一个名为 cookies.txt 的文件中。Cookies 用于存储用户的会话信息、登录状态、偏好设置等。",
+    "description": "Get cookies.txt locally 用于获取浏览器中存储的 cookies，并将它们保存到一个名为 cookies.txt 的文件中。Cookies 用于存储用户的会话信息、登录状态、偏好设置等。",
     "download": "https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc"
   },
   {
